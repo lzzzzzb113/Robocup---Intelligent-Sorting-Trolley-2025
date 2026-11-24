@@ -1,0 +1,31 @@
+# GCC / Keil build output
+**/build/
+**/Objects/
+**/Listings/
+**/Debug*
+**/Release*
+**/*.o
+**/*.d
+**/*.crf
+**/*.dep
+**/*.lnp
+**/*.lst
+**/*.map
+**/*.axf
+**/*.elf
+**/*.hex
+**/*.bin
+**/*.htm
+**/*.sct
+**/*.uvguix.*
+
+# IDE and editor state
+**/.idea/
+.vscode/
+*.suo
+*.user
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
